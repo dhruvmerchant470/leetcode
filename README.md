@@ -7,8 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvmerchant470/leetcode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/dhruvmerchant470/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dhruvmerchant470/leetcode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/dhruvmerchant470/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/dhruvmerchant470/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
